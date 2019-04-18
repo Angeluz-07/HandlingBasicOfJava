@@ -24,5 +24,4 @@ Examples are designed to be read in the following order:
   * [Java How to Program - Deitel](http://www.deitel.com/Books/Java/JavaHowtoProgram10eEarlyObjects/tabid/3656/Default.aspx)
   * Introduccion a la Programacion Orientada a Objetos - Francisco Aragon Mesa
   
-## Finally...
-Let me know any error, suggestion or opinion in comments.
+
